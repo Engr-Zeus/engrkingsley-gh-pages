@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/engrkingsley-gh-pages/precache-manifest.750e4aa58d19b40a8f9c426d31f4143a.js"
+  "/engrkingsley-gh-pages/precache-manifest.bad1e59e914650e71e0af5aade298c4f.js"
 );
 
 self.addEventListener('message', (event) => {
